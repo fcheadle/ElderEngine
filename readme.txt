@@ -1,3 +1,5 @@
+The original readme.txt of the Eldritch Source Code:
+
 Thanks for downloading this distribution of Eldritch's source code!
 
 Please note that this is an unsupported, unmaintained release;
